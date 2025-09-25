@@ -1,7 +1,5 @@
 # HR-Analytic Report
 
-<img width="1287" height="801" alt="Image" src="https://github.com/user-attachments/assets/de4a775a-e48c-4d01-98d4-a93cb0ca7886" />
-
 🚀 HR isn’t just about people — it’s about data-driven decisions that shape the workforce.
 
 🔎 Key Findings from my HR Dashboard:
@@ -21,6 +19,10 @@
 📌 Top recruitment source: Indeed
 
 👉 Insights like these empower organizations to tackle turnover, optimize recruitment, and boost
+
+<img width="1287" height="801" alt="Image" src="https://github.com/user-attachments/assets/de4a775a-e48c-4d01-98d4-a93cb0ca7886" />
+
+
 
 ## DATA
 [HRData.csv](https://github.com/user-attachments/files/18644694/HRData.csv)
